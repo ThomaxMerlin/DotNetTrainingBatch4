@@ -1,4 +1,4 @@
-﻿using DotNetTrainingBatch3.ConsoleApp.AdoDotNetExamples;
+﻿using DotNetTrainingBatch4.ConsoleApp.AdoDotNetExamples;
 using System.Data;
 using System.Data.SqlClient;
 
